@@ -1,0 +1,14 @@
+C:\Users\egor2\source\repos\Karay1\Karay1\obj\Debug\Karay1.csprojAssemblyReference.cache
+C:\Users\egor2\source\repos\Karay1\Karay1\obj\Debug\MainWindow.g.cs
+C:\Users\egor2\source\repos\Karay1\Karay1\obj\Debug\App.g.cs
+C:\Users\egor2\source\repos\Karay1\Karay1\obj\Debug\Karay1_MarkupCompile.cache
+C:\Users\egor2\source\repos\Karay1\Karay1\bin\Debug\Karay1.exe.config
+C:\Users\egor2\source\repos\Karay1\Karay1\bin\Debug\Karay1.exe
+C:\Users\egor2\source\repos\Karay1\Karay1\bin\Debug\Karay1.pdb
+C:\Users\egor2\source\repos\Karay1\Karay1\obj\Debug\MainWindow.baml
+C:\Users\egor2\source\repos\Karay1\Karay1\obj\Debug\Karay1.g.resources
+C:\Users\egor2\source\repos\Karay1\Karay1\obj\Debug\Karay1.Properties.Resources.resources
+C:\Users\egor2\source\repos\Karay1\Karay1\obj\Debug\Karay1.csproj.GenerateResource.cache
+C:\Users\egor2\source\repos\Karay1\Karay1\obj\Debug\Karay1.csproj.CoreCompileInputs.cache
+C:\Users\egor2\source\repos\Karay1\Karay1\obj\Debug\Karay1.exe
+C:\Users\egor2\source\repos\Karay1\Karay1\obj\Debug\Karay1.pdb
